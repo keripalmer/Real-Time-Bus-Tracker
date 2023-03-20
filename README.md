@@ -3,6 +3,6 @@
 
 <img src="CambridgeMA.png" width= '300'/>
 
-How To Run: Upload the code into a blank browser. You may need to check the API and make sure that the map works. Click the button to start the simulation, then watch the bus move through Cambridge, MA.
+How To Run: Fork the code and use your own API score. This will allow you to use the map at your discretion and avoid having too many people using the same API - causing the system to crash. Then open a blank browset, and watch the bus travel through Cambridge, MA.
 
 License: This project is under the MIT XPro license for the coding course.
